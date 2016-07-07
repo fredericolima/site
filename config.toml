@@ -34,15 +34,15 @@ disqusShortname = "your_disqus_shortname"
 
 [author]
     name = "Frederico Lima"
-    email = "fred@fedoraproject.org"
+    email = "fredlima@fedoraproject.org"
 
 #
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
     # You can use markdown here.
-    brand = "Fedora-br"
-    topline = "Brazilian Fedora Community web-site"
+    brand = "Fedorama"
+    topline = "A Brazilian Fedora Community web-site"
     footline = "code with VIM"
 
     # Sidebar position
@@ -61,7 +61,7 @@ disqusShortname = "your_disqus_shortname"
     googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
-    github = "enten/hugo-boilerplate" # Your Github profile ID
+    github = "fredericolima" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
