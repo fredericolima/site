@@ -1,4 +1,4 @@
-baseurl = "http://www.fredericolima.com.br/"
+baseurl = "www.fredericolima.com.br"
 title = "Frederico Lima"
 theme = "hugo-universal-theme"
 languageCode = "pt-BR"
