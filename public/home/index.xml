@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Frederico Lima</title>
+    <link>http://fredericolima.com.br/home/</link>
+    <description>Recent content in Homes on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 09 Jul 2016 01:14:30 -0300</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://fredericolima.com.br/home/about/</link>
+      <pubDate>Sat, 09 Jul 2016 01:14:30 -0300</pubDate>
+      
+      <guid>http://fredericolima.com.br/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;fedorama&#34;&gt;Fedorama&lt;/h1&gt;
+
+&lt;p&gt;Site criado com o intuito de divulgar um pouco sobre o que ando fazendo na minha instalação do Fedora.
+Quer se unir ao projeto?
+Me mande um email: fredlima@fedoraproject.org
+ou visite &lt;a href=&#34;https://fedoraproject.org/wiki/Join/pt-br&#34;&gt;https://fedoraproject.org/wiki/Join/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

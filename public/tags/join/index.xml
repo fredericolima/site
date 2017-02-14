@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Join on Frederico Lima</title>
+    <link>http://fredericolima.com.br/tags/join/</link>
+    <description>Recent content in Join on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 03 Dec 2016 20:37:24 -0200</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/tags/join/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tornando-se um membro do Programa FreeMedia</title>
+      <link>http://fredericolima.com.br/blog/2016/12/03/afiliacao-freemedia/</link>
+      <pubDate>Sat, 03 Dec 2016 20:37:24 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/12/03/afiliacao-freemedia/</guid>
+      <description>&lt;p&gt;Siga as instruções abaixo para se tornar um membro do Programa FreeMedia do Projeto Fedora.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Distribution/Freemedia/Join_freemedia/pt-br&#34;&gt;https://fedoraproject.org/wiki/Distribution/Freemedia/Join_freemedia/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tornando-se um designer do Projeto Fedora</title>
+      <link>http://fredericolima.com.br/blog/2016/12/03/design/</link>
+      <pubDate>Sat, 03 Dec 2016 19:29:59 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/12/03/design/</guid>
+      <description>&lt;p&gt;Siga as instruções abaixo para se tornar um designer do Projeto Fedora.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Join_the_Design_Team/pt-br&#34;&gt;https://fedoraproject.org/wiki/Join_the_Design_Team/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tornando-se um embaixador do Projeto Fedora</title>
+      <link>http://fredericolima.com.br/blog/2016/12/01/embaixador/</link>
+      <pubDate>Thu, 01 Dec 2016 09:31:00 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/12/01/embaixador/</guid>
+      <description>&lt;p&gt;Siga as instruções abaixo para se tornar um embaixador do Projeto Fedora.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Ambassadors_Join_start/pt-br&#34;&gt;https://fedoraproject.org/wiki/Ambassadors_Join_start/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tornando-se um tradutor do Projeto Fedora</title>
+      <link>http://fredericolima.com.br/blog/2016/12/01/tradutor/</link>
+      <pubDate>Thu, 01 Dec 2016 09:15:36 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/12/01/tradutor/</guid>
+      <description>&lt;p&gt;Siga as instruções abaixo para se tornar um tradutor do Projeto Fedora.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/L10N/pt-br&#34;&gt;https://fedoraproject.org/wiki/L10N/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tornando-se um empacotador do Projeto Fedora</title>
+      <link>http://fredericolima.com.br/blog/2016/12/01/empacotador/</link>
+      <pubDate>Thu, 01 Dec 2016 09:11:56 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/12/01/empacotador/</guid>
+      <description>&lt;p&gt;Siga as instruções abaixo para se tornar um empacotador do Projeto Fedora.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Join_the_package_collection_maintainers/pt-br&#34;&gt;https://fedoraproject.org/wiki/Join_the_package_collection_maintainers/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

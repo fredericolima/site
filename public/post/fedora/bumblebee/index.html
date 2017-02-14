@@ -1,0 +1,202 @@
+    <!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Fedorama">
+		<meta name="description" content="Página sobre coisas que ando fazendo nas minhas instalações da distribuição do Projeto Fedora.">
+		<meta name="generator" content="Hugo 0.16" />
+		<title>Instalando o Bumblebee no Fedora 24 com suporte ao Steam &middot; Fedorama</title>
+		<link rel="shortcut icon" href="http://www.fredericolima.com.br/fedorama/images/favicon.ico">
+		<link rel="stylesheet" href="http://www.fredericolima.com.br/fedorama/css/style.css">
+		<link rel="stylesheet" href="http://www.fredericolima.com.br/fedorama/css/highlight.css">
+		
+
+		
+		<link rel="stylesheet" href="http://www.fredericolima.com.br/fedorama/css/monosocialiconsfont.css">
+		
+
+		
+		<link href="http://www.fredericolima.com.br/fedorama/index.xml" rel="alternate" type="application/rss+xml" title="Fedorama" />
+		
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://www.fredericolima.com.br/fedorama/'> <span class="arrow">←</span>Início</a>
+	
+
+	
+		<a href='http://www.fredericolima.com.br/fedorama/about'>Sobre</a>
+	
+
+	
+	<a class="cta" href="http://www.fredericolima.com.br/fedorama/index.xml">Inscrever-se</a>
+	
+</nav>
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>Instalando o Bumblebee no Fedora 24 com suporte ao Steam</h1>
+                    <h2 class="headline">
+                    July 9, 2016 
+                    <br>
+                    
+                    </h2>
+                </header>
+                <section id="post-body">
+                    <p>Notebooks recentes com placas de vídeo da NVIDIA e processador i3, i5 ou i7 usam a tecnologia Optimus para aumentar a vida útil da bateria. Infelizmente o software que suporta essa tecnologia só foi desenvolvido para sistemas proprietários.</p>
+
+<p>O projeto Bumblebee é um conjunto de ferramentas desenvolvidas com o foco em fornecer suporte ao Optimus no Linux, até que os drivers do kernel suportem esse cenário.</p>
+
+<p>Este artigo ensina como instalar e utilizar o Bumblebee no Fedora 24 Workstation 64 bits e também com o Steam.</p>
+
+<p>Para saber se você precisa do bumblebee, execute o comando abaixo:<br>
+<code>$ lspci | grep -i vga</code></p>
+
+<p>Caso retorne mais de uma linha, sendo uma delas contendo a palavra NVIDIA, certamente você se enquadra nos requisitos para utilizar o Bumblebee.<br>
+Existem duas formas de se utilizar o Bumblebee, uma com os drivers livres nouveau, e a outra juntamente com os drivers proprietários da NVIDIA.<br>
+Neste artigo, vamos cobrir a segunda opção.</p>
+
+<p>Primeiramente vamos adicionar o repositório do Bumblebee através do seguinte comando:<br>
+<code># dnf -y &ndash;nogpgcheck install <a href="http://install.linux.ncsu.edu/pub/yum/itecs/public/bumblebee/fedora24/noarch/bumblebee-release-1.2-1.noarch.rpm">http://install.linux.ncsu.edu/pub/yum/itecs/public/bumblebee/fedora24/noarch/bumblebee-release-1.2-1.noarch.rpm</a></code></p>
+
+<p>Após isso, vamos instalar o pacote contendo o repositório do Bumblebee que contém os drivers proprietários da NVIDIA:<br>
+<code># dnf -y &ndash;nogpgcheck install <a href="http://install.linux.ncsu.edu/pub/yum/itecs/public/bumblebee-nonfree/fedora24/noarch/bumblebee-nonfree-release-1.2-1.noarch.rpm">http://install.linux.ncsu.edu/pub/yum/itecs/public/bumblebee-nonfree/fedora24/noarch/bumblebee-nonfree-release-1.2-1.noarch.rpm</a></code></p>
+
+<p>Depois iremos instalar os pacotes multilib (entre outras coisas) do bumblebee e os drivers priprietários da nvidia. A versão multilib é ideal caso você queira executar pela placa de vídeo secundária, softwares/games 32 bits.</p>
+
+<p>Segue o comando:<br>
+<code># dnf install bumblebee-nvidia bbswitch-dkms VirtualGL.x86_64 VirtualGL.i686 primus.x86_64 primus.i686 kernel-devel</code></p>
+
+<p>Após a instalação, segue a sintaxe para utilizar a placa da NVIDIA:</p>
+
+<p>utilizaremos o pacote primusrun (por ter uma performance melhor que o optirun).
+O &ldquo;vblan_mode=0&rdquo; irá aumentar o desempenho desabilitando a sincronização vertical.
+Ex:<br>
+<code># vblank_mode=0 primusrun xpto</code></p>
+
+<p>Aonde Xpto é o nome do jogo ou aplicativo no qual você quer que seja renderizado pela sua placa de vídeo da NVIDIA.</p>
+
+<p>Faça um teste para certificar que está tudo funcionando corretamente:<br>
+<code># vblank_mode=0 primusrun glxgears</code></p>
+
+<p>Steam: Caso você utilize o Steam como plataforma de games no Fedora 24, você não é aconselhado a executar o Steam via primusrun, mas sim apenas nos jogos.
+Como fazer isso? Executando o Steam normalmente, e dentro do Steam, ao selecionar o jogo, ir nas propriedades do jogo, e modificar o lançador do mesmo, para que cada vez que seja invocado o executável do jogo o primusrun também o seja.</p>
+
+<p>Para fazer o jogo utilizar a GPU da NVIDIA siga estes passos:</p>
+
+<ol>
+<li>Selecione o jogo – que você deseja executar utilizando a placa da NVIDIA – através da página Library do cliente Steam, clique com o botão direito, e selecione Properties.<br></li>
+<li>Clique no botão SET LAUNCH OPTIONS&hellip; e digite:<br><code>vblank_mode=0 primusrun %command%</code><br></li>
+<li>Salves as modificações.</li>
+</ol>
+
+<p>Fontes:</p>
+
+<p>Acrelinux - Fedora - Instalando o Bumblebee [NVIDIA Optimus] - <a href="https://www.youtube.com/watch?v=sYn46YZmDrE">https://www.youtube.com/watch?v=sYn46YZmDrE</a><br>
+Fedora Project Wiki - <a href="https://fedoraproject.org/wiki/Bumblebee">https://fedoraproject.org/wiki/Bumblebee</a><br>
+Steam - <a href="https://support.steampowered.com/kb_article.php?ref=6316-GJKC-7437&amp;l=portuguese">https://support.steampowered.com/kb_article.php?ref=6316-GJKC-7437&amp;l=portuguese</a></p>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                <a href="https://twitter.com/FredericoLimaBR">
+                        <img class="avatar" src="http://www.fredericolima.com.br/fedorama/images/avatar.png">
+                        <div>
+                            <span class="dark">Fedorama</span>
+                            <span>Frederico Lima</span>
+                        </div>
+                    </a>
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fwww.fredericolima.com.br%2ffedorama%2fpost%2ffedora%2fbumblebee%2f - Instalando%20o%20Bumblebee%20no%20Fedora%2024%20com%20suporte%20ao%20Steam by @FredericoLimaBR"><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'fredlimabr';
+    var disqus_identifier = 'http:\/\/www.fredericolima.com.br\/fedorama\/post\/fedora\/bumblebee\/';
+    var disqus_title = 'Instalando o Bumblebee no Fedora 24 com suporte ao Steam';
+    var disqus_url = 'http:\/\/www.fredericolima.com.br\/fedorama\/post\/fedora\/bumblebee\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+            <ul id="post-list" class="archive readmore">
+    <h3>Leia mais</h3>
+    
+    
+        
+        <li>
+            <a href="http://www.fredericolima.com.br/fedorama/post/fedora/bumblebee/">Instalando o Bumblebee no Fedora 24 com suporte ao Steam<aside class="dates">Jul 9</aside></a>
+        </li>
+        
+   
+    
+        
+   
+</ul>
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    
+    <a class="symbol" href="https://www.facebook.com/fredericolima.com.br">
+        circlefacebook
+    </a>
+    
+    <a class="symbol" href="https://github.com/fredericolima">
+        circlegithub
+    </a>
+    
+    <a class="symbol" href="https://twitter.com/FredericoLimaBR">
+        circletwitterbird
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+        Creative Commons License - Se for reutilizar o conteúdo, cite a fonte
+    
+    </p>
+</footer>
+
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://www.fredericolima.com.br/fedorama/js/main.js"></script>
+<script src="http://www.fredericolima.com.br/fedorama/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+    </body>
+</html>
