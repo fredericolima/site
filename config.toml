@@ -1,7 +1,8 @@
-baseurl = "www.fredericolima.com.br/"
+baseurl = "http://www.fredericolima.com.br/"
+canonifyurls = true 
 title = "Frederico Lima"
 theme = "hugo-universal-theme"
-languageCode = "pt-BR"
+languageCode = "pt-br"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "fredlimabr"
 # Enable Google Analytics by entering your tracking code
