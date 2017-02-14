@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locale on Frederico Lima</title>
+    <link>http://fredericolima.com.br/tags/locale/</link>
+    <description>Recent content in Locale on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 07 Sep 2016 04:39:23 -0300</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/tags/locale/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mudar o locale e o leiaute do teclado no Fedora 24</title>
+      <link>http://fredericolima.com.br/blog/2016/09/07/fedora-locale/</link>
+      <pubDate>Wed, 07 Sep 2016 04:39:23 -0300</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/09/07/fedora-locale/</guid>
+      <description>&lt;p&gt;Exite um comando do systemd que facilita tudo na hora de definir o locale do sistema, ele é o localectl.&lt;/p&gt;
+
+&lt;p&gt;Exibe o locale e leiaute de teclado atual:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ localectl status&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Exibe os locales disponiveis instalados no sistema:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ localectl list-locales&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Define o locale para pt-BR&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;# localectl set-locale LANG=pt_BR.utf8&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Exibe os leiautes de teclado disponíveis&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ localectl list-keymaps&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Define o teclado para o padrão brasileiro no console e no X11&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;# localectl set-keymap br&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

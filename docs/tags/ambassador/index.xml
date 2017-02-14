@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ambassador on Frederico Lima</title>
+    <link>http://fredericolima.com.br/tags/ambassador/</link>
+    <description>Recent content in Ambassador on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 01 Dec 2016 09:31:00 -0200</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/tags/ambassador/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tornando-se um embaixador do Projeto Fedora</title>
+      <link>http://fredericolima.com.br/blog/2016/12/01/embaixador/</link>
+      <pubDate>Thu, 01 Dec 2016 09:31:00 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/12/01/embaixador/</guid>
+      <description>&lt;p&gt;Siga as instruções abaixo para se tornar um embaixador do Projeto Fedora.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Ambassadors_Join_start/pt-br&#34;&gt;https://fedoraproject.org/wiki/Ambassadors_Join_start/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

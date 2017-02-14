@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseurl = "http://fredericolima.com.br"
 title = "Frederico Lima"
 theme = "hugo-universal-theme"
