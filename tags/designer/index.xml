@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designer on Frederico Lima</title>
+    <link>http://fredericolima.com.br/tags/designer/</link>
+    <description>Recent content in Designer on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 03 Dec 2016 19:29:59 -0200</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/tags/designer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tornando-se um designer do Projeto Fedora</title>
+      <link>http://fredericolima.com.br/blog/2016/12/03/design/</link>
+      <pubDate>Sat, 03 Dec 2016 19:29:59 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/12/03/design/</guid>
+      <description>&lt;p&gt;Siga as instruções abaixo para se tornar um designer do Projeto Fedora.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Join_the_Design_Team/pt-br&#34;&gt;https://fedoraproject.org/wiki/Join_the_Design_Team/pt-br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report on Frederico Lima</title>
+    <link>http://fredericolima.com.br/tags/report/</link>
+    <description>Recent content in Report on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 30 Nov 2016 11:22:17 -0200</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FGSL XIII Event Report</title>
+      <link>http://fredericolima.com.br/blog/2016/11/30/fgsl_report/</link>
+      <pubDate>Wed, 30 Nov 2016 11:22:17 -0200</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/11/30/fgsl_report/</guid>
+      <description>&lt;p&gt;Before I became a Fedora Project contributor, I went to an event
+in the central west region of Brazil called FGSL (
+&amp;ldquo;Fórum Goiano de Software Livre&amp;rdquo;), which had its 12th edition in 2015. It was a great event, and now (
+2016) that I have joined the Fedora Community as a contribuitor I thought
+about being there again, this time representing the Fedora Project.&lt;/p&gt;
+
+&lt;p&gt;I invited some of my friends who are Fedora Project ambassadors to attend FGSL
+and they told me that I should also attend the event, even if I am not an
+ambassador as well, so we went to Goiânia ro represent Fedora there.&lt;/p&gt;
+
+&lt;p&gt;The attendees were Ana Mativi (mativi), Athos Ribeiro (athoscr) and me
+(fredlima). On the first day, Friday, November 18, we stayed at our table in the event check-in and registration area
+receiving the crowd, promoting the upcoming speeches, answering questions
+about the Fedora Project and giving some swag that we took to the event.&lt;/p&gt;
+
+&lt;p&gt;On the second day, Saturday, November 19, we gave 3 speeches, the first one was
+&amp;ldquo;Localização no Fedora: Removendo as barreiras de idioma.&amp;ldquo;, which could be translated
+as &amp;ldquo;Fedora Localization: Removing the language barrier&amp;rdquo; presented by Ana Mativi
+and me, at 9:00 to 9:50 AM. We spoke about the Fedora l10n team and how to
+contribute as an translator.&lt;/p&gt;
+
+&lt;p&gt;The second speech, &amp;ldquo;Fedora Project - Mesa Redonda&amp;rdquo; translated as &amp;ldquo;Fedora Project
+– Rounda Table&amp;rdquo; was given by Ana Mativi, Athos Ribeiro and me, at 11:00 –
+11:50, we spoke about the Fedora Project itself and how to join and contribute.&lt;/p&gt;
+
+&lt;p&gt;The last one was &amp;ldquo;O que é um gerenciador de pacotes?&amp;rdquo; translated as &amp;ldquo;What is a
+package manager&amp;rdquo; presented by Athos Ribeiro. he spoke about
+package management and the RPM package manager.&lt;/p&gt;
+
+&lt;p&gt;There were some problems with the place where the event was held
+this year and some lack of care by the event organizers, but the
+objective was reached.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

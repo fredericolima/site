@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screenshot on Frederico Lima</title>
+    <link>http://fredericolima.com.br/tags/screenshot/</link>
+    <description>Recent content in Screenshot on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 18 Aug 2016 18:27:13 -0300</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/tags/screenshot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meu Raspberry pi rodando Fedora ARM</title>
+      <link>http://fredericolima.com.br/blog/2016/08/18/raspberry_fedora/</link>
+      <pubDate>Thu, 18 Aug 2016 18:27:13 -0300</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/08/18/raspberry_fedora/</guid>
+      <description>&lt;p&gt;Tenho um raspberry pi 2 model b e segui os passos dessa wiki abaixo para instalar o Fedora ARM no Raspberry,
+e deu certo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Raspberry_Pi&#34;&gt;https://fedoraproject.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Screenshots depois de instalado e configurado, usei o Fedora ARM LXDE Desktop:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arm.fedoraproject.org/&#34;&gt;https://arm.fedoraproject.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Greeter
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/screenshots/rasp/1.jpg&#34; alt=&#34;Screenshot 1&#34; title=&#34;Greeter&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;dnf upgrade
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/screenshots/rasp/2.jpg&#34; alt=&#34;Screenshot 2&#34; title=&#34;dnf upgrade&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;dnf upgrade 2
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/screenshots/rasp/3.jpg&#34; alt=&#34;Screenshot 3&#34; title=&#34;dnf upgrade 2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Página inicial do Firefox do Fedora ARM
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/screenshots/rasp/4.jpg&#34; alt=&#34;Screenshot 4&#34; title=&#34;página inicial do Firefox do Fedora ARM&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Acessando um canal do youtube (AcreLinux)
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/screenshots/rasp/5.jpg&#34; alt=&#34;Screenshot 5&#34; title=&#34;Acessando um canal do youtube \(AcreLinux\)&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Assistindo a um vídeo no youtube
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/screenshots/rasp/6.jpg&#34; alt=&#34;Screenshot 6&#34; title=&#34;Assistindo a um vídeo no youtube&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Acessando o meu site
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/screenshots/rasp/7.jpg&#34; alt=&#34;Screenshot 7&#34; title=&#34;Acessando o meu site&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
