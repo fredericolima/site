@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swag on Frederico Lima</title>
+    <link>http://fredericolima.com.br/tags/swag/</link>
+    <description>Recent content in Swag on Frederico Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 18 Aug 2016 21:23:28 -0300</lastBuildDate>
+    <atom:link href="http://fredericolima.com.br/tags/swag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meus swags do Fedora</title>
+      <link>http://fredericolima.com.br/blog/2016/08/18/fedora_swags/</link>
+      <pubDate>Thu, 18 Aug 2016 21:23:28 -0300</pubDate>
+      
+      <guid>http://fredericolima.com.br/blog/2016/08/18/fedora_swags/</guid>
+      <description>&lt;p&gt;Esses são alguns swags do projeto Fedora que eu tenho.&lt;/p&gt;
+
+&lt;p&gt;Capa do celular
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/swags/capa-celular.jpg&#34; alt=&#34;swag 1&#34; title=&#34;Capa do celular&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Adesivo da tampa do notebook
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/swags/tampa-note.jpg&#34; alt=&#34;swag 2&#34; title=&#34;Adesivos notebook&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Adesivos internos do notebook
+&lt;img src=&#34;http://fredericolima.com.br/fedorama/img/swags/dentro-note.jpg&#34; alt=&#34;swag 3&#34; title=&#34;Adesivos notebook&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
