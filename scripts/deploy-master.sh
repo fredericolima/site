@@ -19,3 +19,11 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 #git subtree push --prefix=public git@github.com:fredericolima/fredericolima.github.io.git gh-pages
+
+cd public
+
+git add -A
+
+git commit -m "$msg"
+
+git push origin gh-pages
