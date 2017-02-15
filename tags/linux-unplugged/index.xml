@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Unplugged on Frederico Lima</title>
-    <link>http://fredericolima.com.br/tags/linux-unplugged/</link>
+    <link>http://www.fredericolima.com.br/tags/linux-unplugged/</link>
     <description>Recent content in Linux Unplugged on Frederico Lima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <lastBuildDate>Thu, 01 Dec 2016 09:23:03 -0200</lastBuildDate>
-    <atom:link href="http://fredericolima.com.br/tags/linux-unplugged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.fredericolima.com.br/tags/linux-unplugged/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vídeo: It&#39;s Not X, It&#39;s Wayland - Canal LINUX Unplugged</title>
-      <link>http://fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</link>
       <pubDate>Thu, 01 Dec 2016 09:23:03 -0200</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</guid>
       <description>&lt;p&gt;Vídeo do canal LINUX Unplugged no YouTube, edição 172, no qual tratam do assunto Wayland no Fedora.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/A4SGc7Ebf1Q&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;

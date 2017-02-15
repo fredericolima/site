@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infraestrutura on Frederico Lima</title>
-    <link>http://fredericolima.com.br/tags/infraestrutura/</link>
+    <link>http://www.fredericolima.com.br/tags/infraestrutura/</link>
     <description>Recent content in Infraestrutura on Frederico Lima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <lastBuildDate>Sat, 03 Dec 2016 20:13:01 -0200</lastBuildDate>
-    <atom:link href="http://fredericolima.com.br/tags/infraestrutura/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.fredericolima.com.br/tags/infraestrutura/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Conheça a Equipe de Infraestrutura do Fedora</title>
-      <link>http://fredericolima.com.br/blog/2016/12/03/equipe-infra/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/12/03/equipe-infra/</link>
       <pubDate>Sat, 03 Dec 2016 20:13:01 -0200</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/12/03/equipe-infra/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/12/03/equipe-infra/</guid>
       <description>&lt;p&gt;Conheça através do link abaixo a Equipe de Infraestrutura do Projeto Fedora:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Infrastructure/pt-br&#34;&gt;https://fedoraproject.org/wiki/Infrastructure/pt-br&lt;/a&gt;&lt;/p&gt;

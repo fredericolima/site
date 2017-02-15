@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bumblebee on Frederico Lima</title>
-    <link>http://fredericolima.com.br/tags/bumblebee/</link>
+    <link>http://www.fredericolima.com.br/tags/bumblebee/</link>
     <description>Recent content in Bumblebee on Frederico Lima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <lastBuildDate>Sat, 09 Jul 2016 18:44:07 -0300</lastBuildDate>
-    <atom:link href="http://fredericolima.com.br/tags/bumblebee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.fredericolima.com.br/tags/bumblebee/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Instalando o Bumblebee no Fedora 24 com suporte ao Steam</title>
-      <link>http://fredericolima.com.br/blog/2016/07/09/bumblebee/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/07/09/bumblebee/</link>
       <pubDate>Sat, 09 Jul 2016 18:44:07 -0300</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/07/09/bumblebee/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/07/09/bumblebee/</guid>
       <description>&lt;p&gt;Notebooks recentes com placas de vídeo da NVIDIA e processador i3, i5 ou i7 usam a tecnologia Optimus para aumentar a vida útil da bateria. Infelizmente o software que suporta essa tecnologia só foi desenvolvido para sistemas proprietários.&lt;/p&gt;
 
 &lt;p&gt;O projeto Bumblebee é um conjunto de ferramentas desenvolvidas com o foco em fornecer suporte ao Optimus no Linux, até que os drivers do kernel suportem esse cenário.&lt;/p&gt;

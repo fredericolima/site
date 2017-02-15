@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redhat on Frederico Lima</title>
-    <link>http://fredericolima.com.br/tags/redhat/</link>
+    <link>http://www.fredericolima.com.br/tags/redhat/</link>
     <description>Recent content in Redhat on Frederico Lima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <lastBuildDate>Wed, 07 Sep 2016 04:57:47 -0300</lastBuildDate>
-    <atom:link href="http://fredericolima.com.br/tags/redhat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.fredericolima.com.br/tags/redhat/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Desmistificando o systemd, vídeo by Red Hat</title>
-      <link>http://fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</link>
       <pubDate>Wed, 07 Sep 2016 04:57:47 -0300</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</guid>
       <description>&lt;p&gt;Ben Breard — Senior Solutions Architect, Red Hat&lt;/p&gt;
 
 &lt;p&gt;Lennart Poettering — Red Hat&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Vídeo sobre a história da antiga distribuição Red Hat Linux até o RHEL</title>
-      <link>http://fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</link>
       <pubDate>Thu, 18 Aug 2016 22:11:18 -0300</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</guid>
       <description>&lt;p&gt;A história da distro Red Hat Linux, no início até os dias atuais, vídeo do canal Toca do Tux.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/zr67VlMqsrk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Podcast - Opencast sobre o projeto Fedora</title>
-      <link>http://fredericolima.com.br/blog/2016/07/19/opencast_fedora/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/07/19/opencast_fedora/</link>
       <pubDate>Tue, 19 Jul 2016 00:27:24 -0300</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/07/19/opencast_fedora/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/07/19/opencast_fedora/</guid>
       <description>&lt;p&gt;Opencast do site Tecnologia Aberta e nesse episódio contaram com Ivan, Daniel Lara, Fabio Olive e Og Maciel falam um pouco sobre o Projeto Fedora no geral, sem focar em versões mas sim no Projeto como um todo.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ZTS2HxUzqnE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Podcast - Opencast sobre Redhat</title>
-      <link>http://fredericolima.com.br/blog/2016/07/18/opencast_redhat/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/07/18/opencast_redhat/</link>
       <pubDate>Mon, 18 Jul 2016 23:34:04 -0300</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/07/18/opencast_redhat/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/07/18/opencast_redhat/</guid>
       <description>&lt;p&gt;Opencast é o Podcast do site Tecnologia Aberta, este episódio é antigo, mas os assuntos abordados continuam atuais.
 O episódio contou com a presença de Aprígio Simões, Fabio Olive, Og Maciel e Kurt Kraut para falar sobre a Red Hat.
 Opencast muito bom para conhecer a empresa por trás do Fedora.&lt;/p&gt;

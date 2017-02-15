@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vídeo on Frederico Lima</title>
-    <link>http://fredericolima.com.br/tags/v%C3%ADdeo/</link>
+    <link>http://www.fredericolima.com.br/tags/v%C3%ADdeo/</link>
     <description>Recent content in Vídeo on Frederico Lima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <lastBuildDate>Sat, 03 Dec 2016 23:11:16 -0200</lastBuildDate>
-    <atom:link href="http://fredericolima.com.br/tags/v%C3%ADdeo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.fredericolima.com.br/tags/v%C3%ADdeo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vídeo Porting Fedora to 64-bit ARM systems</title>
-      <link>http://fredericolima.com.br/blog/2016/12/03/video-fedora-porting-arm64/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/12/03/video-fedora-porting-arm64/</link>
       <pubDate>Sat, 03 Dec 2016 23:11:16 -0200</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/12/03/video-fedora-porting-arm64/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/12/03/video-fedora-porting-arm64/</guid>
       <description>&lt;p&gt;Vídeo Porting Fedora to 64-bit ARM systems&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ja7rQMKRKoU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Vídeo Understanding the Fedora - Red Hat Relationship - Denise Dumas</title>
-      <link>http://fredericolima.com.br/blog/2016/12/03/video-fedora-rh-relationship/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/12/03/video-fedora-rh-relationship/</link>
       <pubDate>Sat, 03 Dec 2016 22:50:35 -0200</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/12/03/video-fedora-rh-relationship/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/12/03/video-fedora-rh-relationship/</guid>
       <description>&lt;p&gt;Vídeo Understanding the Fedora - Red Hat Relationship - Denise Dumas&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qJ3CozFrEvg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Vídeo de Métricas de 2016 do Projeto Fedora</title>
-      <link>http://fredericolima.com.br/blog/2016/12/03/video-fedora-metrics-2016/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/12/03/video-fedora-metrics-2016/</link>
       <pubDate>Sat, 03 Dec 2016 20:58:05 -0200</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/12/03/video-fedora-metrics-2016/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/12/03/video-fedora-metrics-2016/</guid>
       <description>&lt;p&gt;Vídeo do canal oficial do Projeto Fedora no YouTube sobre as Métricas do Projeto Fedora de 2016&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DklOE_X2dM8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Vídeo: It&#39;s Not X, It&#39;s Wayland - Canal LINUX Unplugged</title>
-      <link>http://fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</link>
       <pubDate>Thu, 01 Dec 2016 09:23:03 -0200</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/12/01/video_linux_unplugged_172_wayland/</guid>
       <description>&lt;p&gt;Vídeo do canal LINUX Unplugged no YouTube, edição 172, no qual tratam do assunto Wayland no Fedora.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/A4SGc7Ebf1Q&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>Desmistificando o systemd, vídeo by Red Hat</title>
-      <link>http://fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</link>
       <pubDate>Wed, 07 Sep 2016 04:57:47 -0300</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/09/07/systemd-redhat-video/</guid>
       <description>&lt;p&gt;Ben Breard — Senior Solutions Architect, Red Hat&lt;/p&gt;
 
 &lt;p&gt;Lennart Poettering — Red Hat&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Vídeo sobre a história da antiga distribuição Red Hat Linux até o RHEL</title>
-      <link>http://fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</link>
+      <link>http://www.fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</link>
       <pubDate>Thu, 18 Aug 2016 22:11:18 -0300</pubDate>
       
-      <guid>http://fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</guid>
+      <guid>http://www.fredericolima.com.br/blog/2016/08/18/video_redhat_tocadotux/</guid>
       <description>&lt;p&gt;A história da distro Red Hat Linux, no início até os dias atuais, vídeo do canal Toca do Tux.&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/zr67VlMqsrk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
