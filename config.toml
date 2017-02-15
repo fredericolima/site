@@ -36,7 +36,7 @@ paginate = 10
     email = "fred@fredericolima.com.br"
 
     about_us = "<p>Sou um Belo Horizontino que mora em Brasília, da área de TI e Contribuidor do Projeto Fedora.</p>"
-    copyright = "O conteúdo desse site, exceto quando indicado de outra forma, <br>está sob a licença Creative Commons Attribution 4.0 International license.<br>O logotipo do Fedora e os 4 fundamentos são marcas registrada da Red Hat Inc."
+    copyright = "O conteúdo desse site, exceto quando indicado de outra forma, <br>está sob a licença Creative Commons Attribution 4.0 International license.<br>O logotipo do Fedora e os 4 fundamentos são marcas registradas da Red Hat Inc."
 
     # Format dates with Go's time formatting
     date_format = "02/01/2006"
