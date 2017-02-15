@@ -1,5 +1,4 @@
 baseurl = "http://www.fredericolima.com.br/"
-canonifyurls = false 
 title = "Frederico Lima"
 theme = "hugo-universal-theme"
 languageCode = "pt-br"
